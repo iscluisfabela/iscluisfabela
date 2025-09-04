@@ -119,4 +119,4 @@
 </p>
 
 <!-- Footer -->
-<p align="center">⭐️ “Siempre aprendiendo, siempre creando soluciones.”</p>
+<p align="center">📌 “Siempre aprendiendo. Siempre creando soluciones.”</p>
