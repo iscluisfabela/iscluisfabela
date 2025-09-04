@@ -55,8 +55,8 @@
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353735/ajax.svg" alt="AJAX" width="40" height="40"/>
+ <a href="https://developer.mozilla.org/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg" alt="AJAX" width="40" height="40"/>
   </a>
 
   <!-- Bases de Datos -->
@@ -70,7 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Access" width="45" height="45"/>
   </a>
   <a href="https://firebirdsql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353735/ajax.svg" alt="Firebird (icon placeholder)" width="0" height="0" style="display:none;"/>
+    <img src="images/firebird-logo.png" alt="Firebird SQL" width="40" height="40" />
   </a>
   <img src="https://www.vectorlogo.zone/logos/firebirdsql/firebirdsql-icon.svg" alt="Firebird" width="40" height="40"/>
 
